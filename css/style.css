@@ -1,8 +1,9 @@
 #container {
   width: 400px;
+  margin: auto;
+  text-align: center;
+  font-family: Arial;
 }
-
-
 
 .hidden {
   background-color: white;
